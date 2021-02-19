@@ -1,0 +1,146 @@
+[[JSBSim]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8b52afaf9dfd82cea0d5e130025ebcbb5a5174d3"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "740658cdfd474f72c3dc0624dd1fdcb98dcdac97165c1d55524e2e79bc6bb96b"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.aarch64-linux-gnu-cxx03.tar.gz"
+[[JSBSim]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be26c24a375a2952cc844bb4286fdd7d456c5d1c"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "a6dd926e50cd3380b5717be0d85d142f40ddaa138ab01f67b80e4e7f5dd52101"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.aarch64-linux-gnu-cxx11.tar.gz"
+[[JSBSim]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7234111e140e0ad278a9cfcbe673bb770f312265"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "3cfbaf5f6cc7a40742c304a054e058a4b11ba462d261bb929afd989623239ea4"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[JSBSim]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b1b408c52e3803bb642258640a793bb3655ce57"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "a90d2efa61dc056ec16cd19897938899c85726a96f5d223f1ede112c5d0b9466"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[JSBSim]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23dc3667e65b2445d90ab417a76f036b52bcdd43"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "b1d9ac84d8a458787f6318c27a11a3e2d5d14994d3b428db566882542cd685c1"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.i686-linux-gnu-cxx03.tar.gz"
+[[JSBSim]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea5e14b8f117d8679d90627250c161a883c13c42"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "8d39f8f3c70e9c90d29e3da4b4d4f576010822f5c8c2c3c3b7fc77949d1fb81b"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.i686-linux-gnu-cxx11.tar.gz"
+[[JSBSim]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3fa215e9797dc45b55862eb55e9e289a4bf1bbe9"
+os = "windows"
+
+    [[JSBSim.download]]
+    sha256 = "200f363f6868e4db66303aad21f1eb4a7fb915fc8eead136cd89f29a767fb69a"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.i686-w64-mingw32-cxx03.tar.gz"
+[[JSBSim]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "49be55db28908eb1cff8b8aaedc04af0b54c8755"
+os = "windows"
+
+    [[JSBSim.download]]
+    sha256 = "b645238bb5620abcf52938caf66978c5f7f5949d3b8673f32481d052972d0d62"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.i686-w64-mingw32-cxx11.tar.gz"
+[[JSBSim]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "970284a493bf26cea915150a23a7d08dad103f23"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "1515d9fe6d79f52024d650c393adb598fbc20cca04abe5525729f76262b5dfcb"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[JSBSim]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c03d91b5ffa85a4e943a88d32e14264437d7d8bf"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "cb288c81384222543159d0a2007337dd30efa4d6258819af4b8b847637c8dffe"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[JSBSim]]
+arch = "x86_64"
+git-tree-sha1 = "70b2045a4ca095f80a601acf5e59657258592b59"
+os = "macos"
+
+    [[JSBSim.download]]
+    sha256 = "ef707e43754d2451a3c9140104ee0c78a4ac8bbaa7726b38f5a00dfb8d4d8d69"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.x86_64-apple-darwin.tar.gz"
+[[JSBSim]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aa02060f94e50530ddc2e6b50c847417370b6059"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "1c8323c2fc5bcdbdee1b8a9ae3a2be624a549084dd396ac998b32cb3fd0e5885"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.x86_64-linux-gnu-cxx03.tar.gz"
+[[JSBSim]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5fd457782db3e1d4eb2266117d0352dcd83ee28a"
+libc = "glibc"
+os = "linux"
+
+    [[JSBSim.download]]
+    sha256 = "7c4c4f319f2f0f082f291a7e3c5110e0720802158d470d447b33e379d9db4d88"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.x86_64-linux-gnu-cxx11.tar.gz"
+[[JSBSim]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0b18ffefc44a2fb060c2fb9abcc14ddd4d7ecad5"
+os = "windows"
+
+    [[JSBSim.download]]
+    sha256 = "fe0b7c5ee5ca2264e0e5da02b70173483eb0fc9cc9428d32245abbb75538e441"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.x86_64-w64-mingw32-cxx03.tar.gz"
+[[JSBSim]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "768daed553531221435ba789718c761ef999ff81"
+os = "windows"
+
+    [[JSBSim.download]]
+    sha256 = "bb6609c79314cb11f8365694b0cad3376c82c45617bd2c87b940a8b1b6635a70"
+    url = "https://github.com/JuliaBinaryWrappers/JSBSim_jll.jl/releases/download/JSBSim-v1.1.5+0/JSBSim.v1.1.5.x86_64-w64-mingw32-cxx11.tar.gz"
